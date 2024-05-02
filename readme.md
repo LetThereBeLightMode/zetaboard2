@@ -4,9 +4,17 @@
 
 The zetaboard project is a fully open source split keyboard with ortholinear layout. The project is built on vial-qmk (fork of the QMK project). All files are available for download, including PCB gerbers and hardware specifications. The project is fully reproducable, however I would love if you could support my development sourcing from my store ! - not available yet. 
 
-* Keyboard Maintainer: [CameronWeller](https://github.com/CameronWeller)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+**Future Development Roadmap**
+
+* Matching thematic numberpad+macroboard
+* Fully preassembled pick-n-place PCB design
+* Fully available prebuilt sourcing
+
+
+
+Keyboard Maintainer: [CameronWeller](https://github.com/CameronWeller)
+Hardware Supported: The PCBs, controllers supported
+Hardware Availability: Links to where you can find this hardware
 
 Make example for this keyboard (after setting up your build environment):
 
